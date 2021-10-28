@@ -116,13 +116,11 @@ c. 修改响应头：去掉响应头中 `"Content-Security-Policy"` 字段，以
 - [vConsole by Tencent](https://github.com/Tencent/vConsole)
 
 
-### Thor 20 天免费试用 TestFlight 申请
-
-0x1、[TestFlight 试用申请](https://testflight.apple.com/join/aqSJDhMi)
+### Thor
 
 0x2、[Thor HTTP Sniffer AppStore 地址](https://itunes.apple.com/app/id1210562295)
 
 0x3、[Thor 的详细介绍](https://github.com/PixelCyber/Thor/blob/master/README-zh-Hans.md)
 
-0x4、过滤器 "WebView 注入调试" [后期优化版下载](https://github.com/PixelCyber/Thor/raw/master/tips-zh-Hans/bp_res/WebView_debug.f4thor)（下载后直接用 Thor 打开，安装）
+0x4、过滤器 "WebView 注入调试" [后期优化版下载](https://github.com/PixelCyber/Thor/raw/master/tips-zh-Hans/bp_res/WebView_debug.f4thor)（下载后直接用 Thor 打开，装载）
 
